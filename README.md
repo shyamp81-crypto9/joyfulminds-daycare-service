@@ -8,6 +8,7 @@ The site is designed to recruit individuals who want to operate a home-based chi
 
 - Website name: Joyfulminds Daycare Service
 - Phone: 1-674-778-9605
+- Alternate phone: 1-647-705-7989
 - Office address: 78 Braebrook Drive, Whitby, ON, L1R 0M9
 
 ## Files
